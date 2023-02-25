@@ -6,6 +6,10 @@ My name is Đăng Khoa. I am a Frontend Developer and I use Reactjs.<br>
 ![Khoa's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=byDangKhoa&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/byDangKhoa/Portfolio/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=byDangKhoa&repo=Portfolio&theme=radical" />
 </a>    
+
+<a href="https://github.com/byDangKhoa/reddit/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=byDangKhoa&repo=RedditClone&theme=radical" />
+</a>    
+
