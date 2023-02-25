@@ -10,6 +10,6 @@ My name is Đăng Khoa. I am a Frontend Developer and I use Reactjs.<br>
 </a>    
 
 <a href="https://github.com/byDangKhoa/reddit/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=byDangKhoa&repo=RedditClone&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=byDangKhoa&repo=reddit&theme=radical" />
 </a>    
 
